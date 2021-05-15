@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="Install"
+        path="."
+        />
+    <!-- 不是很明白name的作用，随便写什么都行；path不可随便写，一般为.或者/ -->
+</paths>
+<!--适配Android7.0 离开程序访问其他文件，防止更新apk出错-->
